@@ -28,7 +28,7 @@ while x :
       else :
           print ("error ,try again ")
       if sum==100 :
-            print('you win, congratulations') 
+            print('you win congratulations') 
             break
       if sum>100:
          print ("you lost good luck next time")
